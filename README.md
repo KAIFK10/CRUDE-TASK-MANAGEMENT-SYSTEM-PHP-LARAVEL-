@@ -8,4 +8,4 @@ This project is designed as a comprehensive task management system, empowering u
 - Open Xampp Sever and Start Apache and MySQL
 - Click on MySQL Admin and Upload the Given Database Table
 - Now if you have Laravel Installed in Your PC , You can Simply use the New Terminal in any Code editor to input the command "php artisan serve" this will open a Port in your browser
-- Now the application will apper on the browser's window , use it as per your desire
+- Now the application will appear on the browser's window , use it as per your desire
